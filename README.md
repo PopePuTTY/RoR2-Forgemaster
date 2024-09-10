@@ -1,2 +1,2 @@
 # RoR2-Forgemaster
- Build stat tool for Risk of Rain 2
+ Build assistance tool for Risk of Rain 2
